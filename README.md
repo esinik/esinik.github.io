@@ -49,9 +49,7 @@ I am willing to collaborate. Contact me on ertansinik@gmail.com or on the medias
 
 <!-- [<img src="" width=48 height=48>][] -->
 
-[medium]: https://medium.com/@nic-obert
+[medium]: https://medium.com/@ertansinik
 [stackoverflow]: https://stackoverflow.com/users/6804076/ertans
 [reddit]: https://www.reddit.com/user/ertansinik
 [telegram]: https://t.me/ertansinik
-[discord]: https://discord.com/channels/nic#2519
-
